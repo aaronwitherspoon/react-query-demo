@@ -37,8 +37,14 @@
       ],
       "users": [
         {
-          "id": "vishwas@example.com",
+          "id": "test@test.test",
           "channelId": "codevolution"
+        }
+      ],
+      "channels": [
+        {
+          "id": "codevolution",
+          "courses": ["react", "vue", "angular"]
         }
       ]
   }
